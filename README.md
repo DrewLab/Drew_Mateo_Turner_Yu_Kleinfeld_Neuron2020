@@ -58,7 +58,8 @@ Notes on each animal including surgery information, habituation, and imaging tim
     - Min 18.2 uM 
 
 ---
-# Acknowledgements
+## Acknowledgements
+---
 * multiWaitbar.m Author: Ben Tordoff https://www.mathworks.com/matlabcentral/fileexchange/26589-multiwaitbar-label-varargin
 * colors.m Author: John Kitchin http://matlab.cheme.cmu.edu/cmu-matlab-package.html
 * Chronux subfunctions http://chronux.org/
